@@ -576,6 +576,23 @@ form {
   color: var(--clr-gray);
 }
 
+/* CHICKEN RECIPE */
+
+.chickenRp{
+
+}
+.chickenRp__banner{
+
+}
+.chickenRp__banner--title{
+
+}
+
+/* LABELS */
+.chickenRp__Banner--title ul:first-child{
+
+}
+
 /* FOOTER */
 
 .footer {
